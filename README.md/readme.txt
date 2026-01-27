@@ -2,7 +2,7 @@
 
 A real-time crypto analytics pipeline that fetches **live Bitcoin & Ethereum market data** and the **Fear & Greed Index**, stores it in **MySQL**, generates **trade alerts (BUY/SELL/HOLD)**, and visualizes everything in a premium **Power BI dashboard**.
 
----
+--
 
 ## 📌 Features
 ✅ Live API ingestion (CoinGecko + Alternative.me)  
