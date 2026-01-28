@@ -21,8 +21,8 @@ A real-time crypto analytics pipeline that fetches **live Bitcoin & Ethereum mar
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+
+
 
 ---
 
