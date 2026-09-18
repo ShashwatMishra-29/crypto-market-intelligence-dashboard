@@ -1,1 +1,0 @@
-Create temporary README copy
