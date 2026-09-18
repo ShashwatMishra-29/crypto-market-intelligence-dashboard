@@ -44,7 +44,7 @@ A real-time crypto analytics pipeline that fetches **live Bitcoin & Ethereum mar
 ## 🗄️ Database Schema
 Run these SQL files in MySQL Workbench:
 
-```bash
+
 sql/create_tables.sql
 sql/views.sql
 ▶️ How to Run the Project
@@ -87,6 +87,8 @@ Shashwat Mishra
 
 ✅ Save this as: **README.md** in your main project folder  
 Then push to GitHub using:
+
+Move README out of folder
 
 ```bash
 git add README.md
